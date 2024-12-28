@@ -15,5 +15,7 @@ Foram selecionados dataset´s para os diferentes algoritmos utilizados neste pro
 
 ## Algoritmos desenvolvidos
 -> SuperVised
+
 -> Unsupervised
+
 -> Apriori
