@@ -3,7 +3,9 @@
 ## Introdução
 Realizado por:
 Gonçalo Costa
+
 Daniela Pereira
+
 Fábio Miranda
 
 ## Conjunto(s) de dados
