@@ -3,11 +3,11 @@
 ## Introdução
 Realizado por:
 
--Gonçalo Costa
+- Gonçalo Costa
 
--Daniela Pereira
+- Daniela Pereira
 
--Fábio Miranda
+- Fábio Miranda
 
 ## Conjunto(s) de dados
 Foram selecionados dataset´s para os diferentes algoritmos utilizados neste projeto
