@@ -9,6 +9,9 @@ Realizado por:
 
 - Fábio Miranda (26003)
 
+objetivo deste projeto é implementar diferentes abordagens e métodos de Aprendizagem Automática (ML) para resolver problemas específicos utilizando conjuntos de dados públicos.
+A análise concentra-se no mercado imobiliário, com foco em explorar padrões, segmentar imóveis e construir modelos preditivos para facilitar a tomada de decisões no setor.
+Foram utilizados três métodos principais, cada um com objetivos específicos e aplicados a um dos conjuntos de dados disponíveis. Nos pontos a seguir (Conjunto de dados e Algoritmos desenvolvidos) é detalhado melhor cada um dos métodos, como o seu dataset, seus objetivos, entre outros.
 Aprendizagem Não Supervisionada / Unsupervised:
 Dataset: New York Housing Market
 Objetivo: Aplicar o método de clustering KMeans para agrupar os imóveis com base em suas características, identificando padrões e segmentando o mercado de forma eficiente.
