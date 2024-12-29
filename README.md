@@ -23,10 +23,11 @@ Objetivo: Aplicar o método de clustering KMeans para agrupar os imóveis com ba
 
 -->Aprendizagem Supervisionada / Supervised:
 
-Dataset: Housing Price Prediction Data
-Objetivo: Construir modelos preditivos capazes de estimar o preço de imóveis com base em suas características, utilizando métodos supervisionados para obter maior precisão e insights sobre fatores determinantes.
+- Dataset: Housing Price Prediction Data
+- Objetivo: Construir modelos preditivos capazes de estimar o preço de imóveis com base em suas características, utilizando métodos supervisionados para obter maior precisão e insights sobre fatores determinantes.
 
--->sAnálise de Regras de Associação (Apriori):
+-->Análise de Regras de Associação (Apriori):
+
 Dataset: New York Housing Market
 Objetivo: Utilizar o algoritmo Apriori para identificar associações relevantes entre as características dos imóveis, como localização, preço e tamanho, oferecendo insights adicionais para a personalização de ofertas e estratégias de marketing.
 
