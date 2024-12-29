@@ -1,7 +1,7 @@
 # Estrutura do Notebook
 
 ## Introdução
-<u> Realizado por: </u>
+Realizado por:
 
 - Gonçalo Costa (26024)
 
