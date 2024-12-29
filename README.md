@@ -23,8 +23,25 @@ O objetivo é criar um modelo que permita à empresa entender melhor as caracter
 
 
 ## Algoritmos desenvolvidos
--> SuperVised
+###SuperVised
 
--> Unsupervised
+###Unsupervised
+os objetivos específicos deste algoritmo são:
 
--> Apriori
+1. **Segmentação de Imóveis:**
+   - **Meta:** Utilizar a técnica de **KMeans** para agrupar os imóveis em clusters com base em suas características, como preço, número de quartos, área do imóvel, localização, etc.
+   - **Objetivo:** Identificar grupos de imóveis com características semelhantes, permitindo uma melhor análise e segmentação do mercado imobiliário, e facilitando a personalização de ofertas para diferentes grupos de consumidores.
+
+2. **Identificação de Padrões no Mercado:**
+   - **Meta:** Analisar a correlação entre as características dos imóveis e seus preços, e identificar quais variáveis mais impactam o preço final de venda.
+   - **Objetivo:** Oferecer insights sobre os fatores que mais influenciam o preço dos imóveis, ajudando no desenvolvimento de estratégias de preços, bem como oferecendo recomendações sobre quais características valorizar em novos desenvolvimentos imobiliários.
+
+3. **Melhoria da Precisão na Avaliação de Imóveis:**
+   - **Meta:** Melhorar a precisão da avaliação de imóveis usando dados históricos de vendas, características dos imóveis e a segmentação obtida pelos clusters.
+   - **Objetivo:** Oferecer uma ferramenta mais precisa para corretores de imóveis e investidores ao avaliar novos imóveis, ajudando-os a determinar um preço de venda mais adequado e competitivo com base nas características e no mercado local.
+
+4. **Visualização dos Resultados para Tomada de Decisão:**
+   - **Meta:** Criar visualizações interativas e gráficos que permitam aos stakeholders (gestores, investidores, etc.) analisar os dados de forma intuitiva.
+   - **Objetivo:** Facilitar a comunicação de resultados e insights para equipes não técnicas, permitindo que tomadores de decisão compreendam rapidamente as tendências do mercado e façam escolhas informadas baseadas nos dados.
+
+###Apriori
