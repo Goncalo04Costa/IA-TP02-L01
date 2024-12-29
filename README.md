@@ -11,7 +11,7 @@ Realizado por:
 
 
 
-O objetivo deste projeto é implementar diferentes abordagens e métodos de Aprendizagem Automática (ML) para resolver problemas específicos utilizando conjuntos de dados públicos.
+O objetivo deste projeto é implementar diferentes abordagens e algoritmos de Aprendizagem Automática (ML) para resolver problemas específicos utilizando conjuntos de dados públicos.
 A análise concentra-se no mercado imobiliário, com foco em explorar padrões, segmentar imóveis e construir modelos preditivos para facilitar a tomada de decisões no setor.
 
 Foram utilizados três algoritmos principais, cada um com objetivos específicos e aplicados a um dos conjuntos de dados disponíveis. Nos pontos a seguir (Conjunto de dados e Algoritmos desenvolvidos) é detalhado melhor cada um dos algoritmos, como o seu dataset, seus objetivos, entre outros.
@@ -92,7 +92,7 @@ Objetivos específicos:
 Este projeto demonstrou a aplicabilidade de diferentes técnicas de Aprendizagem Automática (ML) para resolver desafios específicos, neste caso, no mercado imobiliário, utilizando conjuntos de dados públicos(datasets). 
 Através da combinação de algoritmos supervisionados, não supervisionados e de associação, conseguimos gerar insights valiosos que não só melhoram a eficiência na avaliação e precificação de imóveis, mas também otimizam estratégias de marketing e segmentação do mercado.
 
-Os métodos implementados contribuíram para uma compreensão mais profunda dos padrões e das relações entre as variáveis que impactam o preço das propriedades, oferecendo ferramentas úteis para a tomada de decisões de investidores, compradores e vendedores. Além disso, o uso de ML permitiu uma abordagem mais precisa e eficiente para prever preços, identificar grupos de imóveis com características semelhantes e explorar associações entre variáveis importantes.
+Os algoritmos implementados contribuíram para uma compreensão mais profunda dos padrões e das relações entre as variáveis que impactam o preço das propriedades, oferecendo ferramentas úteis para a tomada de decisões de investidores, compradores e vendedores. Além disso, o uso de ML permitiu uma abordagem mais precisa e eficiente para prever preços, identificar grupos de imóveis com características semelhantes e explorar associações entre variáveis importantes.
 
 Em termos gerais, os resultados indicam que a aplicação de técnicas de aprendizado de máquina no mercado imobiliário pode transformar processos tradicionais, proporcionando soluções mais ágeis, personalizadas e baseadas em dados para as partes envolvidas. 
 O projeto não só alcançou seus objetivos, mas também abriu portas para futuras melhorias, como o aprimoramento dos modelos com mais variáveis e a expansão para outros mercados e localidades.
