@@ -86,3 +86,6 @@ Objetivos específicos:
 4. **Visualização dos Resultados para Tomada de Decisão:**
    - **Meta:** Criar visualizações interativas e gráficos que permitam aos stakeholders (gestores, investidores, etc.) analisar os dados de forma intuitiva.
    - **Objetivo:** Facilitar a comunicação de resultados e insights para equipes não técnicas, permitindo que tomadores de decisão compreendam rapidamente as tendências do mercado e façam escolhas informadas baseadas nos dados.
+
+#Conclusão
+Este projeto demonstrou a aplicabilidade de diferentes técnicas de Aprendizagem Automática (ML) para resolver desafios específicos no mercado imobiliário, utilizando conjuntos de dados públicos. Através da combinação de algoritmos supervisionados, não supervisionados e de associação, conseguimos gerar insights valiosos que não só melhoram a eficiência na avaliação e precificação de imóveis, mas também otimizam estratégias de marketing e segmentação do mercado.
