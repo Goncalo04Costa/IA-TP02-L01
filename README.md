@@ -18,8 +18,8 @@ Foram utilizados três métodos principais, cada um com objetivos específicos e
 
 -->Aprendizagem Não Supervisionada / Unsupervised:
 
-Dataset: New York Housing Market
-Objetivo: Aplicar o método de clustering KMeans para agrupar os imóveis com base em suas características, identificando padrões e segmentando o mercado de forma eficiente.
+- Dataset: New York Housing Market
+- Objetivo: Aplicar o método de clustering KMeans para agrupar os imóveis com base em suas características, identificando padrões e segmentando o mercado de forma eficiente.
 
 -->Aprendizagem Supervisionada / Supervised:
 
@@ -28,8 +28,8 @@ Objetivo: Aplicar o método de clustering KMeans para agrupar os imóveis com ba
 
 -->Análise de Regras de Associação (Apriori):
 
-Dataset: New York Housing Market
-Objetivo: Utilizar o algoritmo Apriori para identificar associações relevantes entre as características dos imóveis, como localização, preço e tamanho, oferecendo insights adicionais para a personalização de ofertas e estratégias de marketing.
+- Dataset: New York Housing Market
+- Objetivo: Utilizar o algoritmo Apriori para identificar associações relevantes entre as características dos imóveis, como localização, preço e tamanho, oferecendo insights adicionais para a personalização de ofertas e estratégias de marketing.
 
 ## Conjunto(s) de dados
 Foram selecionados dois dataset´s para os diferentes algoritmos utilizados neste projeto.
