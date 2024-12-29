@@ -24,9 +24,26 @@ O objetivo é criar um modelo que permita à empresa entender melhor as caracter
 
 ## Algoritmos desenvolvidos
 ### SuperVised
+Objetivos específicos:
+
+1. Classificação das Propriedades:
+   - **Meta:** Utilizar algoritmos de aprendizado supervisionado para prever a classe de preço de propriedades com base em atributos como número de quartos, banheiros, área útil e vizinhança.
+   - **Objetivo:** Facilitar a categorização de propriedades por faixa de preço, ajudando no planejamento e posicionamento de mercado.
+
+2. Identificação de Fatores Determinantes:
+   - **Meta:** Analisar a importância das variáveis no modelo de previsão, identificando os fatores que mais influenciam a classe de preço.
+   - **Objetivo:** Oferecer insights valiosos para desenvolvedores e investidores sobre quais características tornam uma propriedade mais valiosa.
+
+3. Otimização do Processo de Avaliação:
+   - **Meta:** Automatizar a previsão de classes de preço com alta precisão, utilizando modelos treinados em dados históricos de imóveis.
+   - **Objetivo:** Reduzir o tempo e esforço necessários para avaliar propriedades, melhorando a eficiência e confiabilidade do processo.
+
+4. Visualização de Resultados:
+   - **Meta:** Criar gráficos e relatórios que apresentem a distribuição das classes de preço e o impacto das variáveis analisadas.
+   - **Objetivo:** Facilitar o entendimento dos resultados por stakeholders, promovendo a utilização prática dos insights obtidos.
 
 ### Unsupervised
-os objetivos específicos deste algoritmo são:
+Objetivos específicos:
 
 1. **Segmentação de Imóveis:**
    - **Meta:** Utilizar a técnica de **KMeans** para agrupar os imóveis em clusters com base em suas características, como preço, número de quartos, área do imóvel, localização, etc.
@@ -45,3 +62,4 @@ os objetivos específicos deste algoritmo são:
    - **Objetivo:** Facilitar a comunicação de resultados e insights para equipes não técnicas, permitindo que tomadores de decisão compreendam rapidamente as tendências do mercado e façam escolhas informadas baseadas nos dados.
 
 ### Apriori
+Objetivos específicos:
