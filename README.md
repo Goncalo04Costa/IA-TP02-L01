@@ -9,6 +9,22 @@ Realizado por:
 
 - Fábio Miranda (26003)
 
+   O objetivo deste projeto é implementar diferentes abordagens e métodos de Aprendizagem Automática (ML) para resolver problemas específicos utilizando conjuntos de dados públicos.
+   A análise concentra-se no mercado imobiliário, com foco em explorar padrões, segmentar imóveis e construir modelos preditivos para facilitar a tomada de decisões no setor.
+   Foram utilizados três métodos principais, cada um com objetivos específicos e aplicados a um dos conjuntos de dados disponíveis. Nos pontos a seguir (Conjunto de dados e Algoritmos desenvolvidos) é detalhado melhor cada um dos métodos, como o seu dataset, seus objetivos, entre outros.
+
+Aprendizagem Não Supervisionada / Unsupervised:
+Dataset: New York Housing Market
+Objetivo: Aplicar o método de clustering KMeans para agrupar os imóveis com base em suas características, identificando padrões e segmentando o mercado de forma eficiente.
+
+Aprendizagem Supervisionada / Supervised:
+Dataset: Housing Price Prediction Data
+Objetivo: Construir modelos preditivos capazes de estimar o preço de imóveis com base em suas características, utilizando métodos supervisionados para obter maior precisão e insights sobre fatores determinantes.
+
+Análise de Regras de Associação (Apriori):
+Dataset: New York Housing Market
+Objetivo: Utilizar o algoritmo Apriori para identificar associações relevantes entre as características dos imóveis, como localização, preço e tamanho, oferecendo insights adicionais para a personalização de ofertas e estratégias de marketing.
+
 ## Conjunto(s) de dados
 Foram selecionados dois dataset´s para os diferentes algoritmos utilizados neste projeto.
 
@@ -43,7 +59,7 @@ Objetivos específicos:
    - **Meta:** Avaliar a qualidade e a relevância das regras geradas, utilizando métricas como suporte, confiança, e lift.
    - **Objetivo:** Garantir que os padrões identificados sejam úteis e aplicáveis em cenários reais do mercado imobiliário.
 
-### SuperVised
+### Supervised
 Objetivos específicos:
 
 1. Classificação das Propriedades:
