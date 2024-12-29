@@ -17,10 +17,12 @@ A análise concentra-se no mercado imobiliário, com foco em explorar padrões, 
 Foram utilizados três métodos principais, cada um com objetivos específicos e aplicados a um dos conjuntos de dados disponíveis. Nos pontos a seguir (Conjunto de dados e Algoritmos desenvolvidos) é detalhado melhor cada um dos métodos, como o seu dataset, seus objetivos, entre outros.
 
 -->Aprendizagem Não Supervisionada / Unsupervised:
+
 Dataset: New York Housing Market
 Objetivo: Aplicar o método de clustering KMeans para agrupar os imóveis com base em suas características, identificando padrões e segmentando o mercado de forma eficiente.
 
 -->Aprendizagem Supervisionada / Supervised:
+
 Dataset: Housing Price Prediction Data
 Objetivo: Construir modelos preditivos capazes de estimar o preço de imóveis com base em suas características, utilizando métodos supervisionados para obter maior precisão e insights sobre fatores determinantes.
 
