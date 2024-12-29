@@ -23,9 +23,9 @@ O objetivo é criar um modelo que permita à empresa entender melhor as caracter
 
 
 ## Algoritmos desenvolvidos
-###SuperVised
+### SuperVised
 
-###Unsupervised
+### Unsupervised
 os objetivos específicos deste algoritmo são:
 
 1. **Segmentação de Imóveis:**
@@ -44,4 +44,4 @@ os objetivos específicos deste algoritmo são:
    - **Meta:** Criar visualizações interativas e gráficos que permitam aos stakeholders (gestores, investidores, etc.) analisar os dados de forma intuitiva.
    - **Objetivo:** Facilitar a comunicação de resultados e insights para equipes não técnicas, permitindo que tomadores de decisão compreendam rapidamente as tendências do mercado e façam escolhas informadas baseadas nos dados.
 
-###Apriori
+### Apriori
