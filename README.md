@@ -23,6 +23,26 @@ O objetivo é criar um modelo que permita à empresa entender melhor as caracter
 
 
 ## Algoritmos desenvolvidos
+
+### Apriori
+Objetivos específicos:
+
+1. **Identificação de Regras de Associação no Mercado Imobiliário:**
+   - **Meta:** Utilizar o algoritmo Apriori para encontrar padrões e associações frequentes entre as características dos imóveis, como número de quartos, banheiros, localização, e a categoria de preço.
+   - **Objetivo:** Melhorar a compreensão das relações entre essas variáveis, otimizando a previsão de preços e auxiliando compradores, vendedores e investidores na tomada de decisões.
+
+2. **Exploração de Relações Frequentes:**
+   - **Meta:** Analisar as combinações de características que frequentemente aparecem juntas no mercado imobiliário, como localização e número de quartos.
+   - **Objetivo:** Identificar combinações de atributos que atraem maior valor de mercado ou atendem a perfis específicos de consumidores.
+
+3. **Visualização de Padrões para Estratégias de Mercado:**
+   - **Meta:** Criar gráficos e tabelas que demonstrem as regras de associação e os padrões frequentes descobertos pelo algoritmo.
+   - **Objetivo:** Oferecer insights claros e visualmente intuitivos para estratégias de marketing e personalização de ofertas no mercado imobiliário.
+
+4. **Validação e Refinamento das Regras Descobertas:**
+   - **Meta:** Avaliar a qualidade e a relevância das regras geradas, utilizando métricas como suporte, confiança, e lift.
+   - **Objetivo:** Garantir que os padrões identificados sejam úteis e aplicáveis em cenários reais do mercado imobiliário.
+
 ### SuperVised
 Objetivos específicos:
 
@@ -60,6 +80,3 @@ Objetivos específicos:
 4. **Visualização dos Resultados para Tomada de Decisão:**
    - **Meta:** Criar visualizações interativas e gráficos que permitam aos stakeholders (gestores, investidores, etc.) analisar os dados de forma intuitiva.
    - **Objetivo:** Facilitar a comunicação de resultados e insights para equipes não técnicas, permitindo que tomadores de decisão compreendam rapidamente as tendências do mercado e façam escolhas informadas baseadas nos dados.
-
-### Apriori
-Objetivos específicos:
